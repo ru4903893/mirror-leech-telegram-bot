@@ -1,13 +1,13 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
+BOT_TOKEN = "7943569257:AAEahOWzZXI0h6ZKqPdEE57TPgFQ7JL7c_M"
 OWNER_ID = 0
 TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+TELEGRAM_HASH = "e10525d8ad0189f8bf7a82a32f538d12"
 # OPTIONAL CONFIG
 USER_SESSION_STRING = ""
 DOWNLOAD_DIR = "/usr/src/app/downloads/"
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1002453514753"
 SUDO_USERS = ""
 DATABASE_URL = "mongodb+srv://yeasinmonir00:RKdHbMjevt9jnoIm@cluster0.tyvlf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 10

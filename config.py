@@ -8,7 +8,7 @@ USER_SESSION_STRING = ""
 DOWNLOAD_DIR = "/usr/src/app/downloads/"
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = "-1002453514753"
-SUDO_USERS = ""
+SUDO_USERS = "7655321383"
 DATABASE_URL = "mongodb+srv://yeasinmonir00:RKdHbMjevt9jnoIm@cluster0.tyvlf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"

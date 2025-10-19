@@ -9,7 +9,7 @@ USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = "-1002453514753"
 SUDO_USERS = ""
-DATABASE_URL = "mongodb+srv://mnn38347:G5keQfhi5hOxdbTc@cluster0.mxlll.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URL = "mongodb+srv://claster069_db_user:Surg_STsc!&ux7P@cluster0.tjhkykv.mongodb.net/?retryWrites=true&w=majority"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
